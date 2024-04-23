@@ -1,4 +1,4 @@
-[![Spring](https://github.com/get-icon/geticon/raw/master/icons/spring.svg)](https://spring.io/)
+<a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="21px" height="21px"></a>
 
 <br>
 
